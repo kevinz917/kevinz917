@@ -2,7 +2,7 @@
 
 I'm a student at Yale studying CS + Philosophy. Currently I'm:
 
-- Building Muse, an audio feedback tool 
+- Building Muse, a user feedback tool for product teams
 - Leading product and design at Ameelio, a platform for 20k+ incarcerated families
 
 I'm passionate about the future of media, B2C products, virtual workspaces, etc.
