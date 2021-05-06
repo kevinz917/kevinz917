@@ -1,6 +1,1 @@
-<h4>Yo! I'm Kevin </h2>
-→ i'm a sophomore @ Yale studying CS + Philosophy.  <br />
-→ taking a gap semester rn to work at NVIDIA cloud gaming
-
-→ i love the future of media, B2C products, entertainment. Talk to me about anything!  <br/>
-→ @ kevin.zhang@yale.edu 
+![Doge](https://media3.giphy.com/media/8FUmlOoL72HB3rR7wm/giphy.gif?cid=ecf05e47lt2n04hjb1qgimhflsyo2643l7a1bvv669mj0h0i&rid=giphy.gif&ct=g)
